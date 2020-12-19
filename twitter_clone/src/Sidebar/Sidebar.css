@@ -1,0 +1,9 @@
+.sidebar_tweet {
+  background-color: var(--twitter-color) !important;
+  border: none !important;
+  color: var(--twitter-backgroud) !important;
+  font-weight: 900 !important;
+  border-radius: 30px !important;
+  text-transform: capitalize !important;
+  font-size: 20px !important;
+}
