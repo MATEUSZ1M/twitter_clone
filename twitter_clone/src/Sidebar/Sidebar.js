@@ -26,7 +26,7 @@ function Sidebar() {
       <SidebarOption Icon={BookmarkBorderIcon} text={'Bookmarks'}/>
       <SidebarOption Icon={FormatListBulletedIcon} text={'Lists'}/>
       <SidebarOption Icon={PersonOutlineIcon} text={'Profile'}/>
-      <SidebarOption Icon={MoreHorizIcon} text={'More'}/>git
+      <SidebarOption Icon={MoreHorizIcon} text={'More'}/>
     </div>
   )
 }
