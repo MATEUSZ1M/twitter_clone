@@ -16,6 +16,6 @@
   top: 0;
   z-index: 100;
   background: #ffffff;
-  border: 1px solid var(--twitter-backgroud);
+  border-bottom: 1px solid var(--twitter-backgroud);
   padding: 15px 20px;
 }

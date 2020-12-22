@@ -1,0 +1,43 @@
+.post{
+  display: flex;
+  align-items: flex-start;
+  border-bottom: 1px solid var(--twitter-backgroud);
+  padding: 20px;
+}
+
+.post:last-child{
+  margin-bottom: 50px;
+
+}
+
+.post__avatar{
+  padding-right: 10px;
+}
+
+.post__img {
+  border-radius: 20px;
+  border: 2px solid var(  --twitter-backgroud);
+  width: 100%;
+  margin-top: 10px;
+}
+
+.post__footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.post__badge > * {
+  font-size: 14px !important;
+  color: var(--twitter-color) !important;
+  padding: 0 .3em;
+}
+
+.post__badgeName{
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.post__headerDescription{
+  padding: .5em;
+}

@@ -12,6 +12,7 @@ function App() {
       <Feed/>
       {/* widgets */}
       <Widgets/>
+
     </div>
   );
 }
