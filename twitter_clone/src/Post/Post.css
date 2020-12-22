@@ -5,6 +5,10 @@
   padding: 20px;
 }
 
+.post__body{
+  width: 100%;
+}
+
 .post:last-child{
   margin-bottom: 50px;
 
@@ -17,7 +21,7 @@
 .post__img {
   border-radius: 20px;
   border: 2px solid var(  --twitter-backgroud);
-  width: 100%;
+  min-width: 100%;
   margin-top: 10px;
 }
 
