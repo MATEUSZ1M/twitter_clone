@@ -11,7 +11,6 @@
 
 .post:last-child{
   margin-bottom: 50px;
-
 }
 
 .post__avatar{
@@ -20,9 +19,8 @@
 
 .post__img {
   border-radius: 20px;
-  border: 2px solid var(  --twitter-backgroud);
   min-width: 100%;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .post__footer {

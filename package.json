@@ -4,6 +4,7 @@
     "@material-ui/icons": "^4.11.2",
     "emoji-picker-react": "^3.2.4",
     "firebase": "^8.2.1",
+    "react-scroll": "^1.8.1",
     "react-twitter-embed": "^3.0.3"
   }
 }
